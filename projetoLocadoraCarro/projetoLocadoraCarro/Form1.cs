@@ -23,6 +23,7 @@ namespace projetoLocadoraCarro
         private void btnCadastrar_Click(object sender, EventArgs e)
         {
             Proprietario proprietario = new Proprietario();
+            Veiculo veiculo = new Veiculo();
 
             proprietario.NomeProp = txtNomeProprietario.Text;
             proprietario.EnderecoProp = txtEnderecoProprietario.Text;
@@ -42,7 +43,13 @@ namespace projetoLocadoraCarro
             {
                 proprietario.SexoProp = rbtSexoFemProprietario.Text;
             }
-            controladorProprietario.InserirProprietario(proprietario);
+            veiculo.ModeloCarro = txtModeloVeiculo.Text;
+            veiculo.FabricanteCarro = cmbFabricanteVeiculo.Text;
+            veiculo.AnoCarro = int.Parse(cmbAnoVeiculo.Text);
+            veiculo.PlacaCarro = txtPlacaVeiculo.Text;
+            veiculo.EstadoCarro = cmbEstadoVeiculo.Text;
+            veiculo.CidadeCarro = txtCidadeVeiculo.Text;
+            controladorProprietario.InserirProprietario(proprietario, veiculo);
 
         }
     }

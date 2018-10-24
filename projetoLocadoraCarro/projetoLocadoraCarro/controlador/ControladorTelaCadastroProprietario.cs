@@ -17,9 +17,9 @@ namespace projetoLocadoraCarro.controlador
 
         }
 
-        public void InserirProprietario(Proprietario proprietario)
+        public void InserirProprietario(Proprietario proprietario, Veiculo veiculo)
         {
-            repositorioProprietario.salvarProprietario(proprietario);
+            repositorioProprietario.salvarProprietario(proprietario, veiculo);
         }
 
         public void alterarProprietario(Proprietario proprietario)

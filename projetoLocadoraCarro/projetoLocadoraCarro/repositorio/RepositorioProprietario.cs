@@ -10,9 +10,9 @@ namespace projetoLocadoraCarro.repositorio
 {
     class RepositorioProprietario
     {
-        public void salvarProprietario(Proprietario proprietario)
+        public void salvarProprietario(Proprietario proprietario, Veiculo veiculo)
         {
-            MessageBox.Show("Cadastro efetuado com sucesso!\n\n"+proprietario.ToString());
+            MessageBox.Show("Cadastro efetuado com sucesso!\n\n"+proprietario.ToString()+"\n\n\n\n"+veiculo.ToString());
         }
 
         public void updgradeProprietario(Proprietario proprietario)
