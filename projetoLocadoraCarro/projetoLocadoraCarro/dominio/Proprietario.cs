@@ -37,13 +37,10 @@ namespace projetoLocadoraCarro.dominio
 
         public override string ToString()
         {
-            return base.ToString();
-        }
-
-        public void ExibirValores()
-        {
-            nomeProp = "Rafael Rios Teixeira";
-            MessageBox.Show(ToString());
+            return "Nome: " + nomeProp + "\n" + "Endereço: " + enderecoProp + "\n" + "Bairro: " + bairroProp + "\n" +
+                "Complemento: " + complementoProp + "\n" + "Cidade: " + cidadeProp + "\n" + "Estado: " + estadoProp + "\n" +
+                "RG: " + rgProp + "\n" + "CPF: " + cpfProp + "\n" + "Dt. Nasc.: " + dataNascimentoProp + "\n" +
+                "Sexo: " + sexoProp + "\n";
         }
     }
 }

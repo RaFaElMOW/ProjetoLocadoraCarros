@@ -18,3 +18,13 @@ C:\Users\2binfo\Desktop\rafa\projetoLocadoraCarro\projetoLocadoraCarro\obj\Debug
 C:\Users\2binfo\Desktop\rafa\projetoLocadoraCarro\projetoLocadoraCarro\obj\Debug\projetoLocadoraCarro.csproj.CoreCompileInputs.cache
 C:\Users\2binfo\Desktop\rafa\projetoLocadoraCarro\projetoLocadoraCarro\obj\Debug\projetoLocadoraCarro.exe
 C:\Users\2binfo\Desktop\rafa\projetoLocadoraCarro\projetoLocadoraCarro\obj\Debug\projetoLocadoraCarro.pdb
+C:\Users\2binfo\Documents\Rafael\ProjetoLocadoraCarros\projetoLocadoraCarro\projetoLocadoraCarro\bin\Debug\projetoLocadoraCarro.exe.config
+C:\Users\2binfo\Documents\Rafael\ProjetoLocadoraCarros\projetoLocadoraCarro\projetoLocadoraCarro\bin\Debug\projetoLocadoraCarro.exe
+C:\Users\2binfo\Documents\Rafael\ProjetoLocadoraCarros\projetoLocadoraCarro\projetoLocadoraCarro\bin\Debug\projetoLocadoraCarro.pdb
+C:\Users\2binfo\Documents\Rafael\ProjetoLocadoraCarros\projetoLocadoraCarro\projetoLocadoraCarro\obj\Debug\projetoLocadoraCarro.csprojAssemblyReference.cache
+C:\Users\2binfo\Documents\Rafael\ProjetoLocadoraCarros\projetoLocadoraCarro\projetoLocadoraCarro\obj\Debug\projetoLocadoraCarro.TelaCadastroVeiculoProprietario.resources
+C:\Users\2binfo\Documents\Rafael\ProjetoLocadoraCarros\projetoLocadoraCarro\projetoLocadoraCarro\obj\Debug\projetoLocadoraCarro.Properties.Resources.resources
+C:\Users\2binfo\Documents\Rafael\ProjetoLocadoraCarros\projetoLocadoraCarro\projetoLocadoraCarro\obj\Debug\projetoLocadoraCarro.csproj.GenerateResource.cache
+C:\Users\2binfo\Documents\Rafael\ProjetoLocadoraCarros\projetoLocadoraCarro\projetoLocadoraCarro\obj\Debug\projetoLocadoraCarro.csproj.CoreCompileInputs.cache
+C:\Users\2binfo\Documents\Rafael\ProjetoLocadoraCarros\projetoLocadoraCarro\projetoLocadoraCarro\obj\Debug\projetoLocadoraCarro.exe
+C:\Users\2binfo\Documents\Rafael\ProjetoLocadoraCarros\projetoLocadoraCarro\projetoLocadoraCarro\obj\Debug\projetoLocadoraCarro.pdb

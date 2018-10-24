@@ -20,7 +20,6 @@ namespace projetoLocadoraCarro.controlador
         public void InserirProprietario(Proprietario proprietario)
         {
             repositorioProprietario.salvarProprietario(proprietario);
-            MessageBox.Show("Cadastro efetuado com sucesso");
         }
 
         public void alterarProprietario(Proprietario proprietario)
